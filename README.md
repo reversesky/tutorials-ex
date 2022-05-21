@@ -1,4 +1,3 @@
-requeset	
 # PyTorch Tutorials
 
 
